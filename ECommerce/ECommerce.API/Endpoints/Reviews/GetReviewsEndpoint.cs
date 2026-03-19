@@ -1,0 +1,25 @@
+﻿using ECommerce.Application.Features.Reviews.GetReviews;
+using FastEndpoints;
+
+namespace ECommerce.API.Endpoints.Reviews {
+    public class GetReviewsEndpoint
+     : Endpoint<GetReviewsRequest, List<ReviewDto>> {
+        private readonly GetReviewsService _service;
+
+        public GetReviewsEndpoint(GetReviewsService service) {
+            _service = service;
+        }
+
+        public override void Configure() {
+            Get("/products/{ProductId}/reviews");
+            AllowAnonymous();
+        }
+
+        public override async Task HandleAsync(
+            GetReviewsRequest req,
+            CancellationToken ct) {
+            var result = await _service.Execute(req);
+            await HttpContext.Response.WriteAsJsonAsync(result, cancellationToken: ct);
+        }
+    }
+}

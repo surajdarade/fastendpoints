@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\orders\\createorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\orders\\createorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\reviews\\createreviewendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\reviews\\createreviewendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\orders\\getmyordersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\orders\\getmyordersendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\reviews\\deletereviewendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\reviews\\deletereviewendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\reviews\\getreviewsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\reviews\\getreviewsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\orders\\cancelorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\orders\\cancelorderendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\endpoints\\products\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\endpoints\\products\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\createorder\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\createorder\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\getreviews\\getreviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\getreviews\\getreviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\seed\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\createreview\\createreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\createreview\\createreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\createreview\\createreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\createreview\\createreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\getreviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\getreviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\getreviews\\getreviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\getreviews\\getreviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\deletereview\\deletereviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\deletereview\\deletereviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\reviews\\deletereview\\deletereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\reviews\\deletereview\\deletereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\cancelorder\\cancelorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\cancelorder\\cancelorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\cancelorder\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\cancelorder\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\getmyorders\\getmyordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\getmyorders\\getmyordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\getmyorders\\getmyordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\getmyorders\\getmyordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\getmyorders\\getmyordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\getmyorders\\getmyordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\createorder\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\createorder\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\orders\\createorder\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\orders\\createorder\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\products\\getproducts\\getproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\products\\getproducts\\getproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\products\\getproducts\\getproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\features\\products\\getproducts\\getproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\products\\getproducts\\getproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57D0399-AA3E-19E4-E35C-E894A146E5E2}|ECommerce.Tests\\ECommerce.Tests.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.tests\\ecommerce.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57D0399-AA3E-19E4-E35C-E894A146E5E2}|ECommerce.Tests\\ECommerce.Tests.csproj|solutionrelative:ecommerce.tests\\ecommerce.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57D0399-AA3E-19E4-E35C-E894A146E5E2}|ECommerce.Tests\\ECommerce.Tests.csproj|c:\\users\\surajnarayandarade\\documents\\.net\\fastendpoints\\ecommerce\\ecommerce.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57D0399-AA3E-19E4-E35C-E894A146E5E2}|ECommerce.Tests\\ECommerce.Tests.csproj|solutionrelative:ecommerce.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateReviewEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\CreateReviewEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Reviews\\CreateReviewEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\CreateReviewEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Reviews\\CreateReviewEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:05:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Products\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Products\\GetProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Products\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Products\\GetProductsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:04:51.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CancelOrderEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\CancelOrderEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Orders\\CancelOrderEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\CancelOrderEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Orders\\CancelOrderEndpoint.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:05:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetReviewsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\GetReviewsEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Reviews\\GetReviewsEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\GetReviewsEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Reviews\\GetReviewsEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:06:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteReviewEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\DeleteReviewEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Reviews\\DeleteReviewEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Reviews\\DeleteReviewEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Reviews\\DeleteReviewEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:06:13.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetMyOrdersEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\GetMyOrdersEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Orders\\GetMyOrdersEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\GetMyOrdersEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Orders\\GetMyOrdersEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:05:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\CreateOrderEndpoint.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Endpoints\\Orders\\CreateOrderEndpoint.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Endpoints\\Orders\\CreateOrderEndpoint.cs",
+              "RelativeToolTip": "ECommerce.API\\Endpoints\\Orders\\CreateOrderEndpoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:05:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ECommerce.API.csproj",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce.API\\ECommerce.API.csproj",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeToolTip": "ECommerce.API\\ECommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:38:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ECommerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeToolTip": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:38:11.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ECommerce.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeToolTip": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:39:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:47:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:45:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:30:17.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetReviewsService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:40:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "ECommerce.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:06:54.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ECommerce.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeToolTip": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:37:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "ECommerce.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:06:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.API\\appsettings.json",
+              "RelativeToolTip": "ECommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T10:56:23.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:49:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Seed\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\Seed\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Seed\\DbSeeder.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\Seed\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:47:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:40:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:48:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateReviewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:43:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\CreateReview\\CreateReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:42:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\GetReviews\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\ReviewDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\GetReviews\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:41:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetReviewsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\GetReviews\\GetReviewsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:40:44.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteReviewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:39:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Reviews\\DeleteReview\\DeleteReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:39:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CancelOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:36:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CancelOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:36:07.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetMyOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:34:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetMyOrdersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersResponse.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersResponse.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersResponse.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:34:15.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetMyOrdersRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\GetMyOrders\\GetMyOrdersRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:34:03.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderResponse.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderResponse.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderResponse.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:30:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:29:47.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:58:28.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetProductsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsResponse.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsResponse.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsResponse.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:58:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetProductsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsRequest.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsRequest.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsRequest.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Products\\GetProducts\\GetProductsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:57:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:48:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerce.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:50:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ECommerce.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Tests\\ECommerce.Tests.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Tests\\ECommerce.Tests.csproj",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Tests\\ECommerce.Tests.csproj",
+              "RelativeToolTip": "ECommerce.Tests\\ECommerce.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:38:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ECommerce.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\.NET\\FastEndpoints\\ECommerce\\ECommerce.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ECommerce.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:03:36.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
