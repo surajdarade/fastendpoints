@@ -110,3 +110,11 @@ C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tes
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.pdb
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.genruntimeconfig.cache
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\obj\Debug\net10.0\ref\ECommerce.Tests.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.sourcelink.json
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\Castle.Core.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\FluentAssertions.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\Moq.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Tests\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

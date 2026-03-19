@@ -9,3 +9,4 @@ C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Dom
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Domain\obj\Debug\net10.0\refint\ECommerce.Domain.dll
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Domain\obj\Debug\net10.0\ECommerce.Domain.pdb
 C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Domain\obj\Debug\net10.0\ref\ECommerce.Domain.dll
+C:\Users\SurajNarayanDarade\Documents\.NET\FastEndpoints\ECommerce\ECommerce.Domain\obj\Debug\net10.0\ECommerce.Domain.sourcelink.json

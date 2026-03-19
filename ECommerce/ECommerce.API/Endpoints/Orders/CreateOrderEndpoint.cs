@@ -12,7 +12,7 @@ namespace ECommerce.API.Endpoints.Orders {
 
         public override void Configure() {
             Post("/orders");
-            AllowAnonymous(); // later replace with auth
+            AllowAnonymous();
         }
 
         public override async Task HandleAsync(
